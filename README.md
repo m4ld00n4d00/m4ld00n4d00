@@ -1,4 +1,4 @@
 - 👋 Olá! Sou a Maldonado
 - Curso Eletroeletrônica no Senai
-- Estou no terceiro termo do curso
-- Quero me formar em arquitetura
+- (3/4) termo
+  
