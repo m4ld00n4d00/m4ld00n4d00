@@ -1,4 +1,4 @@
 - 👋 Olá! Sou a Maldonado
 - Curso Eletroeletrônica no Senai
-- (3/4) termo
+- (4/4) termo
   
